@@ -71,7 +71,7 @@ def gerar_dados():
 df = gerar_dados()
 
 # Interface do Streamlit
-st.title("📦 Sistema de Recomendação de Estoque - DataLog")
+st.title("📦 Sistema de Recomendação de Estoque")
 
 centros = df["centro"].unique()
 produtos = df["produto"].unique()
