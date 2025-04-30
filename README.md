@@ -4,6 +4,11 @@ Este projeto tem como objetivo o desenvolvimento de um sistema inteligente para 
 
 O sistema também inclui a consideração de **margem de segurança** para garantir que o estoque esteja sempre preparado para atender à demanda sem riscos de escassez.
 
+## 📲 Acesse o aplicativo
+
+Para visitar o app, basta clicar [aqui](https://cjlyutdjboleyqkecmbtvr.streamlit.app/)
+
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Python 3.12**
